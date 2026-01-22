@@ -231,7 +231,7 @@ def main():
         """)
     
     # Hoofdinterface
-    st.title("🎓 SlimAcademy AI Trainer")
+    st.title("Victor's Medische Trainer 🩺")
     st.markdown("Een interactieve studie-trainer die vragen stelt over oorzaak-gevolg relaties in je studieteksten.")
     st.markdown("---")
     
